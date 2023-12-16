@@ -18,12 +18,12 @@
 
 
 
-💻 About me:
-I am developer in learning. 🧑‍💻
-- 🔭 I’m currently working on Private PMMP project
-- 🌱 I’m currently learning PHP
-- 👯 I’m looking to collaborate on PMMP plugins
-- 📫 How to reach me: discord candle1166
+  💻 About me:
+  I am developer in learning. 🧑‍💻
+  - 🔭 I’m currently working on Private PMMP project
+  - 🌱 I’m currently learning PHP
+  - 👯 I’m looking to collaborate on PMMP plugins
+  - 📫 How to reach me: discord candle1166
 
   
 
