@@ -14,6 +14,8 @@
   </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=CandleDev1)
+
 
 
 💻 About me:
